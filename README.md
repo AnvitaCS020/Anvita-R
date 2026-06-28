@@ -1,12 +1,12 @@
-# Hi, I'm Anvita 👋
+# Hi, I'm Anvita R
 
-🎓 Computer Science Engineering Student (CGPA: 9.42)
-💻 Passionate about AI, Machine Learning & Full Stack Development
-🚀 Building real-world projects using Python, NLP, and Web Technologies
+ Computer Science Engineering Student (CGPA: 9.42)
+ Passionate about AI, Machine Learning & Full Stack Development
+ Building real-world projects using Python, NLP, and Web Technologies
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python, Java, SQL
 * HTML, CSS, JavaScript, React
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 ReviewIQ — AI Review Intelligence Platform
 
@@ -32,10 +32,10 @@ Machine learning model using Linear Regression to predict vehicle emissions.
 
 ---
 
-## 📫 Contact
+##  Contact
 
-📧 [anvita.r06@gmail.com](mailto:anvita.r06@gmail.com)
+ [anvita.r06@gmail.com](mailto:anvita.r06@gmail.com)
 
 ---
 
-⭐ Always learning and building impactful solutions!
+Always learning and building impactful solutions!
